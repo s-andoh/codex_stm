@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!sessions/
+!sessions/**
+!archived_sessions/
+!archived_sessions/**
+!session_index.jsonl
