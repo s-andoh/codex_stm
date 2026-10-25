@@ -22,3 +22,98 @@
 {"id":"01a06071-1ead-7ee2-8f21-3e91cc66af46","thread_name":"デザイン調整","updated_at":"2026-09-02T04:47:01.839602995Z"}
 {"id":"01a080c6-6755-7a11-a14b-34c0c585296d","thread_name":"channel_cycle.pyはRF受信ユニットのチャンネル変更を一定","updated_at":"2026-09-08T11:39:24.03531343Z"}
 {"id":"01a080c6-6755-7a11-a14b-34c0c585296d","thread_name":"追加するRFステータス取得機能","updated_at":"2026-09-08T11:39:30.402815102Z"}
+{"id":"01a0d653-9e68-79f0-8edc-1b2c84b0631e","thread_name":"HLS対応","updated_at":"2026-09-25T02:10:00.135475109Z"}
+{"id":"01a0d65f-7ce4-75d2-bf7b-456894ee8053","thread_name":"HLS対応","updated_at":"2026-09-25T02:22:57.793134Z"}
+{"id":"01a0f181-58c1-7b73-b879-c188758e69bb","thread_name":"システムステータス","updated_at":"2026-09-30T08:49:42.222444987Z"}
+{"id":"01a0f50a-5874-7ef3-805d-8a85489400b6","thread_name":"セットアップ機能","updated_at":"2026-10-01T01:18:11.603545899Z"}
+{"id":"01a0f750-f910-7e13-9528-477eaed27e9a","thread_name":"グローバル","updated_at":"2026-10-01T11:54:34.678402306Z"}
+{"id":"01a0f7d5-7211-74e3-a870-a309001d45fc","thread_name":"データプレイヤー","updated_at":"2026-10-01T14:19:16.868090332Z"}
+{"id":"01a0fb56-5fb0-72f2-bba3-0cb3531beb63","thread_name":"監視機能","updated_at":"2026-10-02T06:38:58.114032785Z"}
+{"id":"01a1206f-76fc-7e03-aa5f-1b39d83881e5","thread_name":"設定切り替え","updated_at":"2026-10-09T11:32:18.716068469Z"}
+{"id":"01a12533-5a35-7d41-a894-5c98f7f0b841","thread_name":"キャプチャ","updated_at":"2026-10-10T09:44:45.297102703Z"}
+{"id":"01a12995-4873-7773-b1ec-7d57e179f699","thread_name":"Guardian review","updated_at":"2026-10-11T06:10:11.759067322Z"}
+{"id":"01a129ad-405e-7652-8555-18b18cf86a8e","thread_name":"Guardian review","updated_at":"2026-10-11T06:36:22.584372785Z"}
+{"id":"01a12a10-93ae-7423-93fa-1b28bea89c9a","thread_name":"Guardian review","updated_at":"2026-10-11T08:24:51.976749323Z"}
+{"id":"01a12a47-83d5-7ed3-8a8a-740bfd808cda","thread_name":"Guardian review","updated_at":"2026-10-11T09:24:52.392159048Z"}
+{"id":"01a12a5e-b42d-7662-8ed2-c13bf5a72744","thread_name":"Guardian review","updated_at":"2026-10-11T09:50:12.068414424Z"}
+{"id":"01a12ddb-616b-77b3-b32b-67c578fb47f8","thread_name":"Guardian review","updated_at":"2026-10-12T02:05:14.545381346Z"}
+{"id":"01a12f07-d807-7721-ac18-20acb8e8e40b","thread_name":"Guardian review","updated_at":"2026-10-12T07:33:25.726230146Z"}
+{"id":"01a12f5b-2529-7113-97fb-81468cb1137f","thread_name":"Guardian review","updated_at":"2026-10-12T09:04:24.959002155Z"}
+{"id":"01a12f70-3026-7182-8985-a7e18b245eaa","thread_name":"Guardian review","updated_at":"2026-10-12T09:27:24.022057573Z"}
+{"id":"01a13279-6422-78d3-b198-41bff8759aa3","thread_name":"Guardian review","updated_at":"2026-10-12T23:36:18.806160389Z"}
+{"id":"01a132e3-ce86-7d10-b383-3e6d62e77c07","thread_name":"Guardian review","updated_at":"2026-10-13T01:32:32.852894994Z"}
+{"id":"01a133a7-4e44-7e90-8e13-d13b3ece3690","thread_name":"Guardian review","updated_at":"2026-10-13T05:06:05.07898751Z"}
+{"id":"01a133f2-eae1-7252-9ee3-8203078de409","thread_name":"Guardian review","updated_at":"2026-10-13T06:28:40.356987903Z"}
+{"id":"01a133f9-b751-7722-8f84-7f11163f8762","thread_name":"Guardian review","updated_at":"2026-10-13T06:36:05.911157682Z"}
+{"id":"01a133fe-ca74-7de1-9789-f67bdf3fcde1","thread_name":"Guardian review","updated_at":"2026-10-13T06:41:38.485465428Z"}
+{"id":"01a13409-3cd9-70b1-8126-4a6599495a27","thread_name":"Guardian review","updated_at":"2026-10-13T06:53:03.152326188Z"}
+{"id":"01a134f8-3baa-7900-80c0-a42222b7250c","thread_name":"Guardian review","updated_at":"2026-10-13T11:14:05.926876765Z"}
+{"id":"01a1387e-8899-7eb3-9200-69966425591e","thread_name":"Guardian review","updated_at":"2026-10-14T03:39:39.095774154Z"}
+{"id":"01a138de-3c60-75c3-a279-e3be263add3e","thread_name":"Guardian review","updated_at":"2026-10-14T05:24:11.058932651Z"}
+{"id":"01a139cf-1bea-7d20-9568-5dd8c3d48883","thread_name":"Guardian review","updated_at":"2026-10-14T09:47:16.929382301Z"}
+{"id":"01a13a3f-a42b-7bc3-b99c-dad91fecc5ef","thread_name":"Guardian review","updated_at":"2026-10-14T11:50:11.824828821Z"}
+{"id":"01a13ebd-2719-73c1-9d1b-d6b0673a6a0b","thread_name":"Guardian review","updated_at":"2026-10-15T08:45:46.198335371Z"}
+{"id":"01a13f5c-0546-7d13-8a26-c3ec4fdfda73","thread_name":"Guardian review","updated_at":"2026-10-15T11:39:17.768096972Z"}
+{"id":"01a141a2-632c-7f60-8a05-3b9442e24007","thread_name":"Guardian review","updated_at":"2026-10-15T22:15:23.76721452Z"}
+{"id":"01a1423c-0ae4-73e1-aff1-d5d6af7e0755","thread_name":"Guardian review","updated_at":"2026-10-16T01:03:13.69661701Z"}
+{"id":"01a14299-6d06-7e22-a93d-53c86bde795f","thread_name":"Guardian review","updated_at":"2026-10-16T02:45:13.687652921Z"}
+{"id":"01a142bc-6e62-79d3-8ef7-1a5e16b9febe","thread_name":"禁止検出","updated_at":"2026-10-16T03:23:28.194727286Z"}
+{"id":"01a14420-9d40-7d50-a594-651854161cc2","thread_name":"データ形式","updated_at":"2026-10-16T09:52:30.949311011Z"}
+{"id":"01a1447d-06b7-74f3-9b3a-98f267c843c4","thread_name":"Guardian review","updated_at":"2026-10-16T11:33:26.919612049Z"}
+{"id":"01a14481-8106-7793-8a84-80e0566abd06","thread_name":"Guardian review","updated_at":"2026-10-16T11:38:20.379398537Z"}
+{"id":"01a14483-43c3-7503-bf64-2cece5543b5f","thread_name":"Guardian review","updated_at":"2026-10-16T11:40:15.751200392Z"}
+{"id":"01a147dc-f1f0-7ec1-a408-8886c01c5c00","thread_name":"Guardian review","updated_at":"2026-10-17T03:17:04.716832183Z"}
+{"id":"01a1487e-790f-7db0-96ae-ee8b3e200a7c","thread_name":"Guardian review","updated_at":"2026-10-17T06:13:30.592166572Z"}
+{"id":"01a14880-c472-7783-b473-3013c3ccc0f9","thread_name":"Guardian review","updated_at":"2026-10-17T06:16:00.972960154Z"}
+{"id":"01a14978-b1e4-7411-b8c5-600143fff4d9","thread_name":"Guardian review","updated_at":"2026-10-17T10:46:49.152001704Z"}
+{"id":"01a149b3-2c04-7f02-b13d-272ff8b9d00a","thread_name":"Guardian review","updated_at":"2026-10-17T11:50:41.492459204Z"}
+{"id":"01a14dec-aff9-7e63-9e5d-500eabc32b5b","thread_name":"Guardian review","updated_at":"2026-10-18T07:31:59.685154507Z"}
+{"id":"01a14ded-5a59-7e92-860e-3fdb4b59e071","thread_name":"Guardian review","updated_at":"2026-10-18T07:32:43.311464292Z"}
+{"id":"01a14ef0-20c7-7540-99e5-f8190ba64d4d","thread_name":"Guardian review","updated_at":"2026-10-18T12:15:22.388965823Z"}
+{"id":"01a14efa-e26a-7eb0-b31d-3cefa550bd84","thread_name":"Guardian review","updated_at":"2026-10-18T12:27:07.316999909Z"}
+{"id":"01a156a4-5144-75f3-acd3-dddc65d465f0","thread_name":"Guardian review","updated_at":"2026-10-20T00:09:31.792990181Z"}
+{"id":"01a1580e-c22f-7c10-a234-ec246ec868af","thread_name":"Guardian review","updated_at":"2026-10-20T06:45:24.727850398Z"}
+{"id":"01a15824-a251-75c3-aab3-58f2094d51df","thread_name":"Guardian review","updated_at":"2026-10-20T07:09:18.363841155Z"}
+{"id":"01a15886-a588-7a72-9a3d-431d184a1f35","thread_name":"Guardian review","updated_at":"2026-10-20T08:56:21.722815652Z"}
+{"id":"01a158c1-98ed-7a72-a3bf-8f11c7d5bf52","thread_name":"Guardian review","updated_at":"2026-10-20T10:00:45.117211895Z"}
+{"id":"01a15912-e6b2-7853-b56c-1a164f174fea","thread_name":"Guardian review","updated_at":"2026-10-20T11:29:33.445667859Z"}
+{"id":"01a15933-801d-7762-a08d-77b98355d601","thread_name":"リモートキャプチャ","updated_at":"2026-10-20T12:05:10.250378637Z"}
+{"id":"01a15958-eb7b-78d1-aaa4-f469ee22a929","thread_name":"Guardian review","updated_at":"2026-10-20T12:46:02.178819543Z"}
+{"id":"01a15ccc-41cd-7703-87f1-98900683e84d","thread_name":"Provide status","updated_at":"2026-10-21T04:50:56.067917729Z"}
+{"id":"01a15cd0-796d-7861-9232-bf58ca626337","thread_name":"Check status","updated_at":"2026-10-21T04:55:32.508141869Z"}
+{"id":"01a15d1c-e453-74e1-8405-ca6200eedd48","thread_name":"Guardian review","updated_at":"2026-10-21T06:18:57.058162019Z"}
+{"id":"01a15d9b-6dcc-7952-ae67-28fe36919182","thread_name":"プロセスモニター","updated_at":"2026-10-21T08:37:10.122310938Z"}
+{"id":"01a15d9d-15cf-75a1-b63a-29099fd271ad","thread_name":"プロセスモニター","updated_at":"2026-10-21T08:38:58.682959493Z"}
+{"id":"01a15dce-a1a1-7522-9c53-1f3a5f09c380","thread_name":"Guardian review","updated_at":"2026-10-21T09:33:05.410619951Z"}
+{"id":"01a15ddf-d02c-7413-85f9-88a66809b882","thread_name":"Guardian review","updated_at":"2026-10-21T10:27:26.540707437Z"}
+{"id":"01a15e42-0eb7-7992-ac71-17eb2842fe99","thread_name":"Guardian review","updated_at":"2026-10-21T11:39:09.951960742Z"}
+{"id":"01a15e5a-4e9c-7503-98c0-5df3058d15eb","thread_name":"Guardian review","updated_at":"2026-10-21T12:05:39.197995682Z"}
+{"id":"01a160f3-714a-7f30-b1e2-f42d585a3af0","thread_name":"Guardian review","updated_at":"2026-10-22T00:12:09.500784378Z"}
+{"id":"01a1612b-cadc-7513-8931-913a27c84a2e","thread_name":"Guardian review","updated_at":"2026-10-22T01:13:42.428473195Z"}
+{"id":"01a1612f-cb50-7490-95bd-6144bdc78fd5","thread_name":"Guardian review","updated_at":"2026-10-22T01:18:04.717808089Z"}
+{"id":"01a1613f-4365-73f1-b4bb-f3afc590a93f","thread_name":"Guardian review","updated_at":"2026-10-22T01:34:58.499855561Z"}
+{"id":"01a16165-9574-7d40-b0c2-8b7139b5d12e","thread_name":"Guardian review","updated_at":"2026-10-22T02:16:49.877284199Z"}
+{"id":"01a16234-6cac-77b1-8253-271a1d502aa9","thread_name":"Guardian review","updated_at":"2026-10-22T06:02:45.360502679Z"}
+{"id":"01a16264-b856-74c1-b284-913f0aa1b622","thread_name":"Guardian review","updated_at":"2026-10-22T06:55:30.481746667Z"}
+{"id":"01a1628d-b83c-72e1-9c02-30de4cd7f461","thread_name":"Guardian review","updated_at":"2026-10-22T07:40:17.42182937Z"}
+{"id":"01a1632e-74f0-7490-b1e7-4547a3a57379","thread_name":"stmデバッグ","updated_at":"2026-10-22T10:35:51.958159373Z"}
+{"id":"01a1632e-753e-72f2-9507-8be5bd71d25e","thread_name":"Guardian review","updated_at":"2026-10-22T10:40:25.473285405Z"}
+{"id":"01a1633c-99f0-75b1-bd81-703f66124e6f","thread_name":"Guardian review","updated_at":"2026-10-22T10:51:18.471054864Z"}
+{"id":"01a1635b-7df3-7570-85e7-dcc3cbc53893","thread_name":"Guardian review","updated_at":"2026-10-22T11:25:02.929899651Z"}
+{"id":"01a1636a-7e5f-78c0-a3b6-494364fced01","thread_name":"Guardian review","updated_at":"2026-10-22T11:41:26.050199516Z"}
+{"id":"01a1639e-1b49-70d0-8831-4e1bcb40f89a","thread_name":"Guardian review","updated_at":"2026-10-22T12:37:48.559159282Z"}
+{"id":"01a163b2-abe8-7533-9b45-7a44deb996be","thread_name":"Guardian review","updated_at":"2026-10-22T13:00:16.332437088Z"}
+{"id":"01a163b6-47f4-7260-90c4-6e5a81222d5e","thread_name":"Guardian review","updated_at":"2026-10-22T13:09:21.050311372Z"}
+{"id":"01a163d2-4236-70f2-946d-e3d15e9a5280","thread_name":"Guardian review","updated_at":"2026-10-22T13:34:46.401823683Z"}
+{"id":"01a16620-3de2-7562-a779-2e13369e918e","thread_name":"Guardian review","updated_at":"2026-10-23T00:19:11.560419038Z"}
+{"id":"01a1664a-8dae-7c21-b036-646ab57c9d87","thread_name":"Check status","updated_at":"2026-10-23T01:05:29.649346982Z"}
+{"id":"01a1664b-7565-7852-8fa4-aadd1cecddb1","thread_name":"Check status","updated_at":"2026-10-23T01:06:28.453363418Z"}
+{"id":"01a1664c-9557-7be0-97b2-ff377c91babb","thread_name":"Guardian review","updated_at":"2026-10-23T01:07:37.517137834Z"}
+{"id":"01a1664d-77b5-7f52-b10d-e9748fa9cd8e","thread_name":"Guardian review","updated_at":"2026-10-23T01:08:35.473887007Z"}
+{"id":"01a166c4-a047-7fd1-955b-f175fcf8499a","thread_name":"Guardian review","updated_at":"2026-10-23T03:18:44.654096398Z"}
+{"id":"01a1686d-39ac-7203-838e-7911bd132ed9","thread_name":"Guardian review","updated_at":"2026-10-23T11:12:11.317428121Z"}
+{"id":"01a16d66-2033-72e0-94e2-b6139285b120","thread_name":"Guardian review","updated_at":"2026-10-24T12:38:06.955997664Z"}
+{"id":"01a16df8-6058-7542-b017-d48587f619fb","thread_name":"Guardian review","updated_at":"2026-10-24T12:52:36.653749263Z"}
+{"id":"01a17152-eca1-7323-af95-1f0b160e4da3","thread_name":"Guardian review","updated_at":"2026-10-25T04:30:22.427768479Z"}
+{"id":"01a17267-a0a2-79c3-9eed-1409809f9a4e","thread_name":"Guardian review","updated_at":"2026-10-25T09:32:36.441217995Z"}
+{"id":"01a172af-d978-7343-8544-d797eb87fcb7","thread_name":"Guardian review","updated_at":"2026-10-25T10:51:29.59538214Z"}
